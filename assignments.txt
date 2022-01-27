@@ -1,0 +1,3 @@
+Fix Gradle issues for the assignments branch
+Create a Gradle task to archive the src folder of the repo with a name springboot-sample.zip
+Configure a linter tool for this project and run it for this project
